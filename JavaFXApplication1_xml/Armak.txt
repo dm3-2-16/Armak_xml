@@ -1,0 +1,10 @@
+Nabaja mariposa,Filipinas,Entrenatutako erabiltzaile baten eskuetan, labana blade abiadura handian eta mugimendu ugari erabil daiteke.,1939
+Katana,Japon,Samurai tradizionalki erabiltzen den ezpata bakarreko eta ezpondako mota jakin bati egiten dio erreferentzia.,1392
+Karambit, Indonesia, Malasia eta Filipinas.,Karambitek xafla kurbatu zorrotz bat du, normalean bi xafla, labana behar bezala egiten denean,1700
+Kama,Okinawa ,Tresna hau zorroztasun handiz maneiatu zen, punta incisora ​​gabe, arma hilgarria bihurtu arte, binaka, hala nola, bo, kanabera luzea eta katana edo japoniar zientzien aurka. Samurai gerlariak.,1160
+Bō,Mundua,Bō luzera, pisua, malgutasuna edo dekorazioa aldatu egiten dira: zuhaitz baten adar gisa landu daiteke, metalezko orriak estaltzen edo artelan gisa apainduta,95
+Kodachi,Japon,Japoniako feudaleko samurai klaseak erabiltzen duen ezpata tradizionala (nihonto) da.,1185
+Puño americano,Aremirika,Eguzkiaren giltzari zuzenean egokitzen zaion egitura batek osatzen duen arma laua da, zehatzago, horietako knuckles,1865
+Harria,Mundua,-,0
+Daga,Mundua, Sastakaia baino luzeagoa baina ezpata baino laburragoa da. Bi ahokoa izaten da eta zaintza bat izaten du, ukabila babesteko. ,0
+Aizkora,Mundua,Aizkora bat egurrezko heldulekudun eta metalezko ahodun tresna bat da, egurra edo zenbait lekuetan ere harri leunak mozteko erabiltzen dena.,0
